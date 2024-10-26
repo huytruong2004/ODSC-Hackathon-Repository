@@ -17,7 +17,7 @@ You are free to:
 
 ### Scoring:
 
-Your (or your team's) scores will be based on multi-class F1 scores, determined by comparing your generated predictions on the submission dataset against the held-out labels. 
+Your (or your team's) scores will be based on multi-label F1 scores, determined by comparing your generated predictions on the submission dataset against the held-out labels. 
 
 In case of the ties, we will be using the videos you submitted to gauge your understanding of the data, NeMo curator, and NeMo framework:
 - Understanding the data and usage of the NeMo Curator
